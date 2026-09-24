@@ -1,6 +1,6 @@
 # Capstone Documentation Demo API
 
-A small Python REST API used as a sample repository for the ELITEA Automated Documentation Sync capstone.
+A Python REST API for the ELITEA automated documentation sync capstone, with health-check and greeting endpoints.
 
 ## Purpose
 This service exposes a health endpoint and a simple greeting endpoint. It is intended for documentation and workflow testing, not production use.
