@@ -5,7 +5,7 @@ from fastapi import FastAPI
 app = FastAPI(
     title="Capstone Documentation Demo API",
     description="A small API used to test automated technical documentation generation.",
-    version="1.0.0",
+    version="1.0.1",
 )
 
 APP_ENV = os.getenv("APP_ENV", "development")
