@@ -8,7 +8,7 @@ APP_ENV = os.getenv("APP_ENV", "development")
 APP_REGION = os.getenv("APP_REGION", "local")
 
 app = FastAPI(
-    title="Capstone Documentation Demo API",
+    title="Capstone Documentation Demo API V1",
     description="A small FAST API used to test automated technical documentation generation.",
     version=APP_VERSION,
 )
