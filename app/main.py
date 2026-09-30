@@ -3,7 +3,7 @@ import os
 
 from fastapi import FastAPI
 
-APP_VERSION = "1.0.1"
+APP_VERSION = "1.0.2"
 APP_ENV = os.getenv("APP_ENV", "development")
 APP_REGION = os.getenv("APP_REGION", "local")
 
