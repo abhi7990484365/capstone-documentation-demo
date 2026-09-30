@@ -1,4 +1,4 @@
-# Capstone Documentation Demo API
+# Capstone Documentation Demo API v1
 
 A Python REST API for the ELITEA automated documentation sync capstone, with health-check and greeting endpoints.
 
